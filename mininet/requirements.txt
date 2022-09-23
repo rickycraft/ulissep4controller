@@ -9,7 +9,7 @@ mininet==2.3.0.dev6
 p4==0.1.5
 p4runtime==1.3.0
 platformdirs==2.4.1
-protobuf==3.19.1
+protobuf==3.19.5
 psutil==5.8.0
 pycodestyle==2.8.0
 pylint==2.12.2
